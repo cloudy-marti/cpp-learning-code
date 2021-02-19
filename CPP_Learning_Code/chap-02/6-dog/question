@@ -1,0 +1,7 @@
+L'invariant de la classe serait que la taille du vecteur (nombre de valeurs) doit être exactement la dimension où se trouve le cercle (vecteur à deux valeurs pour une dimension en 2D, vecteur à 3 valeurs pour une dimension 3D, etc.)
+
+"Test Driven Development" Il s'agit d'une pratique où le développeur écrit tous les tests d'abord pour donner le comportement attendu du code qui va être développé ensuite.
+
+1- On évite d'implémenter du code qui risque de ne jamais être utilisé et 2- Cela permet d'avoir à tout moment de notre développement une batterie de tests qui vont s'assurer que l'ajout de nouveau code/nouvelles fonctionnalités ne cassent pas les fonctionnalités implémentées précédemment (principe de non-regression).
+
+C'est une implémentation donnée lorsqu'elle n'est pas implémentée par le développeur (comme un constructeur pour la classe).
